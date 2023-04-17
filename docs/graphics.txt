@@ -1,1 +1,0 @@
-init(width, height, fullscreen=false)
